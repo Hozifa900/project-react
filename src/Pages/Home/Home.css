@@ -1,0 +1,17 @@
+.Home {
+  margin-top: 10px;
+}
+
+.home-card {
+  color: white;
+  border-left: 10px solid red;
+}
+
+.sub-img {
+  float: left;
+}
+
+.sub-no {
+  float: right;
+  font-size: xx-large;
+}
